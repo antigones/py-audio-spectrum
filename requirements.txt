@@ -1,0 +1,13 @@
+backports.shutil-get-terminal-size==1.0.0
+cffi==1.15.0
+colorama==0.4.4
+commonmark==0.9.1
+llvmlite==0.38.0
+numpy==1.21.5
+pycparser==2.21
+Pygments==2.11.2
+reprint==0.6.0
+scipy==1.7.3
+six==1.16.0
+sounddevice==0.4.4
+typing-extensions==4.1.1
